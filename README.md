@@ -1,2 +1,2 @@
 # Delta
-This is a demo file 
+This is a demo file.
